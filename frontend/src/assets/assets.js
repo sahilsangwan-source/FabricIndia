@@ -1,16 +1,16 @@
-import p_img1 from './p_img1.png'
+import p_img1 from './p_img1.avif'
 import p_img2_1 from './p_img2_1.png'
 import p_img2_2 from './p_img2_2.png'
 import p_img2_3 from './p_img2_3.png'
 import p_img2_4 from './p_img2_4.png'
-import p_img3 from './p_img3.png'
-import p_img4 from './p_img4.png'
-import p_img5 from './p_img5.png'
-import p_img6 from './p_img6.png'
-import p_img7 from './p_img7.png'
-import p_img8 from './p_img8.png'
-import p_img9 from './p_img9.png'
-import p_img10 from './p_img10.png'
+import p_img3 from './p_img3.avif'
+import p_img4 from './p_img4.webp'
+import p_img5 from './p_img5.avif'
+import p_img6 from './p_img6.avif'
+import p_img7 from './p_img7.jpg'
+import p_img8 from './p_img8.webp'
+import p_img9 from './p_img9.avif'
+import p_img10 from './p_img10.webp'
 import p_img11 from './p_img11.png'
 import p_img12 from './p_img12.png'
 import p_img13 from './p_img13.png'
@@ -56,7 +56,7 @@ import p_img52 from './p_img52.png'
 
 
 import logo from './logo.png'
-import hero_img from './hero_img.png'
+import hero_img from './hero_img.avif'
 import cart_icon from './cart_icon.png'
 import bin_icon from './bin_icon.png'
 import dropdown_icon from './dropdown_icon.png'
@@ -175,7 +175,7 @@ export const products = [
         price: 190,
         image: [p_img7],
         category: "Men",
-        subCategory: "Bottomwear",
+        subCategory: "Topwear",
         sizes: ["S", "L", "XL"],
         date: 1716621542448,
         bestseller: false
@@ -211,7 +211,7 @@ export const products = [
         price: 110,
         image: [p_img10],
         category: "Men",
-        subCategory: "Bottomwear",
+        subCategory: "Topmwear",
         sizes: ["S", "L", "XL"],
         date: 1716622235448,
         bestseller: false
